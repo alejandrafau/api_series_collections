@@ -1,0 +1,16 @@
+date_col:
+  - anio
+descri_cols:
+  - cultivo_nombre
+  - provincia_nombre
+  - departamento_nombre
+num_cols:
+  - superficie_sembrada_ha
+  - superficie_cosechada_ha
+  - produccion_tm
+  - rendimiento_kgxha
+div_col:
+  - provincia_nombre
+
+
+
