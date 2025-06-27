@@ -4,3 +4,4 @@ pandas
 typing_extensions
 #xlrd==1.1.0
 #series-tiempo-ar==0.4.0
+python-multipart 
